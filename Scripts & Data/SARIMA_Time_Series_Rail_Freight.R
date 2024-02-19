@@ -1,5 +1,4 @@
-#David Fecht
-#MAT 512/Final Project
+#SARIMA-Rail-Freight-Prediction
 
 rm(list = ls( ))
 
